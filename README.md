@@ -9,7 +9,7 @@
 
 ## Business Data Analyst with Proven Skills in Data Analysis and Cloud Computing
 
-I am a highly motivated and skilled Business Intelligence Analyst with a passion for using data to drive business decision-making. I have a strong foundation in data analysis principles and techniques, and I am proficient in a variety of data analysis tools and technologies, including MS Excel, MySQL, Power BI, Python, Pandas, Matplotlib, NumPy, Seaborn, and Azure cloud Fundamentals.
+I am a highly motivated and skilled Business Data Analyst with a passion for using data to drive business decision-making. I have a strong foundation in data analysis principles and techniques, and I am proficient in a variety of data analysis tools and technologies, including MS Excel, MySQL, Power BI, Python, Pandas, Matplotlib, NumPy, Seaborn, and Azure cloud Fundamentals.
 
 
 ### Language and Tools
