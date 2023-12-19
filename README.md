@@ -7,9 +7,9 @@
 ###
 
 
-## Business Data Analyst with Proven Skills in Data Analysis and Cloud Computing
+## Business Data Analyst with Proven Skills in Data Analysis
 
-I am a highly motivated and skilled Business Data Analyst with a passion for using data to drive business decision-making. I have a strong foundation in data analysis principles and techniques, and I am proficient in a variety of data analysis tools and technologies, including MS Excel, MySQL, Power BI, Python, Pandas, Matplotlib, NumPy, Seaborn, and Azure cloud Fundamentals.
+I am a highly motivated and skilled Business Data Analyst with a passion for using data to drive business decision-making. I have a strong foundation in data analysis principles and techniques, and I am proficient in a variety of data analysis tools and technologies, including MS Excel, MySQL, PowerBI, Python, Pandas, Matplotlib, NumPy, Seaborn, and Azure cloud Fundamentals.
 
 
 ### Language and Tools
@@ -53,15 +53,15 @@ I am a highly motivated and skilled Business Data Analyst with a passion for usi
 
 I have experience working on a variety of data analysis projects, including:
 
-* **Customer Segmentation:** I used Python and Pandas to segment a company's customer base into different groups based on their demographics and purchase history. This information was then used to develop targeted marketing campaigns.
-* **Sales Forecasting:** I used Power BI to create a sales forecasting model that predicted future sales based on historical data and market trends. This model was used to help the company make informed decisions about production and inventory levels.
-* **Fraud Detection:** I used Python and machine learning techniques to develop a fraud detection system that identified fraudulent transactions in real time. This system helped the company to prevent millions of dollars in losses.
+* **Airline data analysis:** I used SQL, Python and Pandas to segment a company's customer base into different groups based on their demographics and purchase history. This information was then used to develop targeted marketing campaigns and profilitability.
+* **Sales Forecasting:** I used PowerBI to create a sales forecasting model that predicted future sales based on historical data and market trends. This model was used to help the company make informed decisions about production and inventory levels.
+* **IRIS flower visualization:** I used Python (Pandas, Seaborn) techniques to analyse and vizualise IRIS flowers petal lenght and width. 
 
 <br>
 
 ### Certifications
 
-* Azure cloud Fundamentals
+* 
 
 <br>
 
@@ -78,7 +78,7 @@ In addition to my work in data analysis, I am also interested in the following:
 
 ### Contact
 
-Please feel free to contact me at [your email address] if you have any questions or would like to discuss potential opportunities.
+Please feel free to contact me at praveen-kumar.sagar@iubh.de, if you have any questions or would like to discuss potential opportunities.
 
 Thank you for your time and consideration.
 
